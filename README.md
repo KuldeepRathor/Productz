@@ -48,7 +48,7 @@ UI Layer (Screens) → Repository Layer → Service Layer (API/Cache)
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/productz.git
+git clone https://github.com/KuldeepRathor/Productz.git
 cd productz
 
 # Install dependencies
